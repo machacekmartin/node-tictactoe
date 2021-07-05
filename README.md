@@ -7,5 +7,5 @@
   - number of fields in order to win,
   - flags for command line prints & automatic history clearance
 
-Contains automatic winner detection no matter the board size.
+Contains automatic winner detection no matter how big the board is.
 Just a proof of concept.. GUI & other improvements incoming
