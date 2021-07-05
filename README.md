@@ -1,6 +1,12 @@
 # tictactoe
-Tictactoe using JS. Use Node for interpreting. 
+Customizable Tictactoe using JS. 
 
-Config file contains settings of the board, players, number of fields in order to win and other minor stuff..
+Use Node for interpreting. 
 
-Proof of concept, GUI & other improvements TODO
+New config file now contains: 
+  size of the board
+  number of players and their symbols
+  number of fields in order to win,
+  flags for command line prints & automatic history clearance
+
+Now a proof of concept.. GUI & other improvements incoming
