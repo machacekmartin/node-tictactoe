@@ -1,4 +1,4 @@
-## Customizable Tictactoe using JS
+## Customizable Tictactoe using Node.js
 ##### Use Node for interpreting. 
 
 #### New config file now contains: 
