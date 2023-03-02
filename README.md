@@ -1,5 +1,4 @@
 ## Customizable Tictactoe using Node.js
-##### Use Node for interpreting. 
 
 #### New config file now contains: 
   - size of the board
