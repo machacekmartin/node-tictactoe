@@ -1,5 +1,5 @@
 const CONFIG = require('./config.js')
-const Game = require('./Classes/Game.js')
+const Game = require('./classes/Game.js')
 
 var iterator = 0
 
